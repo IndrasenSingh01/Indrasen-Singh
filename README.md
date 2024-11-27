@@ -7,7 +7,7 @@ Hello! I'm Indrasen, a passionate learner currently diving into the worlds of Py
 ## 🚀 About Me
 
 - 🌱 I’m currently learning:
-  - Python 🐍
+  - C ©️
   - C++ 💻
   - SQL 🗃️
   - Data Structures & Algorithms 📚
